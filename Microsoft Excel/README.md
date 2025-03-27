@@ -1,4 +1,17 @@
-# Excel Projects
+# 📊 Excel Projects  
 
-This folder contains Excel-based data analysis projects.
-- **Superstore Sales Dashboard**: Analyzing sales trends using pivot tables, charts, and formulas.
+This folder contains my Excel projects, showcasing data analysis and visualization skills.  
+
+## 1️⃣ Superstore Sales Dashboard  
+**Summary:**  
+- Analyzed Superstore sales data from 2014-2017.  
+- Identified **2017** as the best-performing year.  
+- Found **November had the highest sales**, while **December had the highest profit**.  
+- Created a **dashboard** with key insights.  
+
+**Tools Used:**  
+✅ Pivot tables  
+✅ Pivot charts  
+✅ Basic formulas for KPI calculations  
+
+📂 **File:** [Superstore_Sales.xlsx](./Superstore_Sales.xlsx)  
