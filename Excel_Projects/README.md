@@ -14,4 +14,4 @@ This folder contains my Excel projects, showcasing data analysis and visualizati
 ✅ Pivot charts  
 ✅ Basic formulas for KPI calculations  
 
-📂 **File:** [Superstore_Sales.xlsx](./Superstore_Sales.xlsx)  
+📂 **File:** [Superstore_Sales.xlsx](./Superstore-Sales/Superstore_Sales.xlsx)  
