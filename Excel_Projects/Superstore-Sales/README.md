@@ -21,7 +21,7 @@ Before analysis, the dataset was cleaned and prepped:
 ### After Cleaning:
 ![](images/After_cleaning.png)
 
-📊 Pivot Table Transformation
+## 📊 Pivot Table Transformation
 After cleaning the dataset, pivot tables were used to extract key insights:
 1. Summarized Sales & Profit by Category and Sub-Category
 2. Created Yearly and Monthly Sales Trends
@@ -29,7 +29,7 @@ After cleaning the dataset, pivot tables were used to extract key insights:
 4. Calculated Key Metrics (Total Sales, Profit %, Units Sold, Average Sale per Order)
 
 ### Pivot Table View:
-![](images/Pivot_Tables.png")
+![](images/Pivot_Tables.png)
 
 ## 📊 Data Analysis & Insights
 ### Key Findings:
