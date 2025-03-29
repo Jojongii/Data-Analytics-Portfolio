@@ -29,7 +29,7 @@ After cleaning the dataset, pivot tables were used to extract key insights:
 4. Calculated Key Metrics (Total Sales, Profit %, Units Sold, Average Sale per Order)
 
 ### Pivot Table View:
-![](images/Pivot%20Tables.png")
+![](images/Pivot_Tables.png")
 
 ## 📊 Data Analysis & Insights
 ### Key Findings:
