@@ -15,6 +15,22 @@ Before analysis, the dataset was cleaned and prepped:
 3. **Converted date formats** to ensure proper analysis.
 4. **Created calculated fields** (e.g., Profit %, Sales per Order).
 
+### Before Cleaning:
+![](images/Before_cleaning.png)
+
+### After Cleaning:
+![](images/After_cleaning.png)
+
+📊 Pivot Table Transformation
+After cleaning the dataset, pivot tables were used to extract key insights:
+1. Summarized Sales & Profit by Category and Sub-Category
+2. Created Yearly and Monthly Sales Trends
+3. Filtered by Region & Customer Segment
+4. Calculated Key Metrics (Total Sales, Profit %, Units Sold, Average Sale per Order)
+
+### Pivot Table View:
+![](images/Pivot%20Tables.png")
+
 ## 📊 Data Analysis & Insights
 ### Key Findings:
 - **2017** was the best-performing year in terms of sales.
