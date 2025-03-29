@@ -47,6 +47,6 @@ The final interactive dashboard includes:
 
 ---
 ### 📢 Connect with Me!
-IfI’m just getting started with sharing my work, and I’m excited to keep learning and improving. Feel free to connect with me on .[LinkedIn](https://www.linkedin.com/in/jonathan-b-a32206115/)!
+IfI’m just getting started with sharing my work, and I’m excited to keep learning and improving. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-b-a32206115/)!
 
 
