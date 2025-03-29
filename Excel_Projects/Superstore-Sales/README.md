@@ -34,8 +34,8 @@ The final interactive dashboard includes:
 ✅ **Top 10 Selling Sub-Categories**  
 ✅ **Regional & Segment Sales Distribution**  
 
-📂 **File:** [Superstore_Sales.xlsx](./Superstore-Sales/Superstore_Sales.xlsx)  
-🖼️ **Dashboard:** ![Superstore Sales Dashboard](./Superstore-Sales/Superstore_Sales_Dashboard.png)  
+📂 **File:** [Superstore_Sales.xlsx](.Superstore_Sales.xlsx)  
+🖼️ **Dashboard:** ![Superstore Sales Dashboard](.Superstore_Sales_Dashboard.png)  
 
 ## 🛠 Tools Used
 - **Microsoft Excel**: Pivot tables, Pivot charts, Conditional Formatting
