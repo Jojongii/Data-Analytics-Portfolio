@@ -15,3 +15,4 @@ This folder contains my Excel projects, showcasing data analysis and visualizati
 ✅ Basic formulas for KPI calculations  
 
 📂 **File:** [Superstore_Sales.xlsx](./Superstore-Sales/Superstore_Sales.xlsx)  
+🖼️ **Dashboard:** .[Superstore Sales Dashboard](./Superstore-Sales/Superstore_Sales_Dashboard.png)
