@@ -4,7 +4,7 @@
 This project analyzes sales data from a **Superstore** dataset to uncover trends and insights. The goal was to explore key performance metrics, identify trends over time, and create an interactive **Excel Dashboard** to present the findings.
 
 ## 📂 Dataset
-- **Source:** [Kaggle - Superstore Dataset](#)  
+- **Source:** [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 - **Time Period:** 2014 - 2017  
 - **Attributes:** Order Date, Sales, Profit, Category, Sub-category, Region, etc.
 
